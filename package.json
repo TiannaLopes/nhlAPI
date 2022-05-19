@@ -1,0 +1,17 @@
+{
+  "name": "ice-hockey-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "nodemon index.js" 
+  },
+  "author": "Tianna Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.13"
+  }
+}
